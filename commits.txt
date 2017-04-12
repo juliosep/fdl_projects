@@ -1,0 +1,11 @@
+commit 55ef3e23dac05e5d15cc057f712b457361aebc55
+Author: juliosep <juliosep@gmail.com>
+Date:   Sat Apr 8 22:12:16 2017 -0400
+
+    primeros cambios realizados por Julio en Capital semilla
+
+commit acafa3d9af31f874cc897c928a3048d75da49f91
+Author: juliosep <juliosep@gmail.com>
+Date:   Sat Apr 8 21:54:06 2017 -0400
+
+    archivo original de Jose Angel
